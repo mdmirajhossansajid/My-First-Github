@@ -1,0 +1,22 @@
+.blog{
+    background-color: aliceblue;
+    border: 20px solid rgb(128, 144, 150);
+    padding: 10px;
+    margin: 40px;
+    box-shadow: 30px 30px 10px gray;
+    width: 60%;
+}
+h2{
+    text-decoration: underline;
+    color: teal;
+    background-color: lightgray;
+    width: fit-content;
+}
+#Second{
+    background-color: lavender;
+    border: 20px solid rgb(150, 132, 97);
+    padding: 10px;
+    /* display: none; */
+    visibility: hidden;
+    
+}
