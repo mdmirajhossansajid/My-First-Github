@@ -4,7 +4,6 @@
     padding: 10px;
     margin: 40px;
     box-shadow: 30px 30px 10px gray;
-    width: 60%;
 }
 h2{
     text-decoration: underline;
@@ -18,5 +17,39 @@ h2{
     padding: 10px;
     /* display: none; */
     visibility: hidden;
+    
+}
+.header{
+    background-color: lightcyan;
+    border: 15px solid rgb(100, 120, 130);
+    padding: 10px;
+    background-image: url('images.jfif');
+    background-size: contain;
+    background-repeat: repeat-x;
+    background-position: 0 0;
+    height: 300px;
+    font-size: x-large;
+}
+.blue{
+    color: blue;
+    background: #bcb3b3;
+}
+.bold{
+    font-weight: bold;
+    font-size: xx-large;
+    margin: 20px auto;
+    text-align: center;
+    color: orangered;
+    background: #d8c9c9 ;
+    width: fit-content;
+    text-decoration: underline;
+}
+.bolder{
+    font-weight: bolder;
+    margin: 20px auto;
+    color: rgb(0, 0, 0);
+    background: #d8c9c9 ;
+    width: fit-content;
+    font-size: medium;
     
 }
